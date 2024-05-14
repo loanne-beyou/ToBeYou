@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+    background: rgb(230,230,230);
+}
+
+.annonce {
+    background: #F8DAEE;
+    padding: 15px;
+    margin: 20px 0px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.3);
+    border-radius: 30%;
+    text-align: center;
+    font-size: 18px;
+    color: hotpink;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.annonce a:hover {
+    text-decoration: underline;
+}
+
+.citation blockquote {
+    color: #FF1493;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.description p {
+    font-size: 16px;
+    text-align: justify;
+}
+
+.affiche {
+    border: 2px solid hotpink;
+    width: 300px;
+}

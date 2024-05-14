@@ -1,0 +1,54 @@
+.intro h2 {color: fuchsia;
+font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal ;
+    text-align: center}
+
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background: #f4f4f4;
+}
+
+}
+
+.intro p {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    font-size: 16px;
+}
+
+.stage-list {
+    margin-top: 20px;
+}
+
+.stage {
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Espacement entre les boîtes */
+}
+
+.stage h2 {
+    color: #003366;
+    font-size: 18px;
+}
+
+.stage.complet h2 {
+    color: red;
+}
+
+.stage p {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+

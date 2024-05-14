@@ -1,0 +1,18 @@
+.footer {
+    background: #003366;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer h3 {
+    margin: 0 0 10px;
+}
+
+.footer p {
+    margin: 5px 0;
+}
+
+.icon {
+    margin-right: 5px;
+}

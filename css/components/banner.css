@@ -1,0 +1,15 @@
+.banner {
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+h1 {color: pink;}
+}
+
+.banner img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}

@@ -1,0 +1,19 @@
+.presentation img {
+	width: 200px;
+	height: 200px;
+	border-radius: 25%;
+}
+
+.corps1 h2{
+color: #D20062;
+	font-size: 45px;
+	letter-spacing:6px ;
+	font-family: "Bebas Neue", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+  	text-align: center;
+}
+
+.corps1 h3 {
+	text-align: center;
+}

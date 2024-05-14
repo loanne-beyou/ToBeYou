@@ -1,0 +1,34 @@
+.search {
+    background-color: skyblue;
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.search ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.search li {
+    display: block;
+}
+
+.search a {
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.search a:hover {
+    background-color: blueviolet;
+}
